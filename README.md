@@ -123,6 +123,11 @@ Se hade la prueba test desde AWS y desde el path dado por el API Gateway
 
 <img width="973" height="79" alt="image" src="https://github.com/user-attachments/assets/267a44ee-2697-440e-becf-fab58cce2d4b" />
 
+## Video de desarrollo
+Video de muestra del funcionamiento completo de AWS, despliegue y peticiones:
+
+[Deployment Video](./areplab08.mp4)
+
 ## Construido con
 
 [Maven](https://maven.apache.org/index.html) - Dependency Management
