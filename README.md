@@ -1,11 +1,9 @@
 # Taller del Diseño de Aplicaciones Seguras
 
 ## Introducción
-En este taller se desea mostrar el uso de la seguridad para aplicaciones, utilizando certificados gratuitos por "Let's Encode", DNS gratuitos con "DuckDns"; entre otras cosas.
 
-En este laboratorio de desea mostrar como se divide la arquitectura de la aplicación en 3 instancias diferentes (Todas en EC2 de AWS);
-donde el front y back se desarrollaron con una AMI LA2023, a las cuales se les configuró LAMP, y la DataBase desarrollada en MySQL. 
-
+En este laboratorio, se quiere demostrar el uso del desarrollo de una aplicacion, subiendola a servicios LAMBDA, que son apuntados desde un API Gateway.
+En este informe se quiere mostrar el desarrollo del laboratorio al montar los servicios y generar las pruebas dadas en cada uno.
 
 ### Prerrequisitos
 
